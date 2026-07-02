@@ -5,8 +5,9 @@
 
 
 ## Logic Function
+``` verilog
 Y = (A & B) | (~C)
-
+```
 
 ## Truth Table
 | A | B | C | Y |
