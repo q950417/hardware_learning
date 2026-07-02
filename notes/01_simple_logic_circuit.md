@@ -23,7 +23,7 @@ Y = (A & B) | (~C)
 
 ## Simulation
 - Waveform Viewer: GTKWave
-![waveform](images/01_waveform.png)
+![waveform](images/01_simple_logic_circuit_waveform.png)
 
 
 ## How to Run
