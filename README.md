@@ -13,8 +13,8 @@ This repository records my learning journey in digital hardware design.
 
 ### Verilog
 
-- [ ] Half Adder
-- [ ] Full Adder
+- [x] Half Adder
+- [x] Full Adder
 - [ ] Multiplexer
 - [ ] Decoder
 - [ ] Counter
