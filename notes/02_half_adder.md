@@ -5,9 +5,10 @@
 
 
 ## Logic Function
-sum = a xor b
-carry = a and b
-
+``` verilog
+- sum = a xor b
+- carry = a and b
+```
 
 ## Truth Table
 | A | B | Carry | sum |
